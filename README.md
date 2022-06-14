@@ -169,3 +169,6 @@ added Href to link website to Horiseon title.
 
 changed id="search-engine-optimization" class="search-engine-optimization">
 
+changed divs to section
+
+changed div to footer
