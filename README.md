@@ -172,3 +172,5 @@ changed id="search-engine-optimization" class="search-engine-optimization">
 changed divs to section
 
 changed div to footer
+
+changed year from 2019 to 2022
